@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-8o5o8-tqyj=-7=j0grbvx=rk%zg&s3&tgy2u(yfwtm2s_-!thf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['fiberart.cloud.ambs.pro']
 
 
 # Application definition
